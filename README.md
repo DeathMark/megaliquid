@@ -49,7 +49,7 @@ Using on the Express 3.x: [the express-liquid module](https://github.com/leizong
 Using on the browser side: 
 
 ```HTML
-<script src="https://raw.github.com/leizongmin/tinyliquid/master/target/tinyliquid.js"></script>
+<script src="https://raw.github.com/leizongmin/tinyliquid/master/target/megaliquid.js"></script>
 reference the file "test/test.html" from the source directory
 ```
 

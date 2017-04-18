@@ -1,5 +1,5 @@
 {
-  "name": "tinyliquid",
+  "name": "megaliquid",
   "main": "./lib/index.js",
   "files": [
     "lib",
@@ -11,25 +11,25 @@
     "liquid",
     "template"
   ],
-  "author": "Zongmin Lei <leizongmin@gmail.com>",
+  "author": "Tuan Pham <joomcoder@gmail.com>",
   "contributors": [
     {
-      "name": "Zongmin Lei",
-      "email": "leizongmin@gmail.com"
+      "name": "Tuan Pham",
+      "email": "joomcoder@gmail.com"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/leizongmin/tinyliquid.git"
+    "url": "git://github.com/DeathMark/megaliquid.git"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.github.com/leizongmin/tinyliquid/master/MIT-License"
+      "url": "https://raw.github.com/DeathMark/megaliquid.git/master/MIT-License"
     }
   ],
   "bugs": {
-    "url": "https://github.com/leizongmin/tinyliquid/issues"
+    "url": "https://github.com/DeathMark/megaliquid/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
