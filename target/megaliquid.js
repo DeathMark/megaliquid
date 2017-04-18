@@ -2857,7 +2857,7 @@
 				 * @return {Function}
 				 */
 				utils.debug = function (name) {
-					if (/tinyliquid/img.test(process.env.DEBUG)) {
+					if (/megaliquid/img.test(process.env.DEBUG)) {
 						return function (msg) {
 							console.log('[debug] TinyLiquid:%s: %s', name, msg);
 						};
